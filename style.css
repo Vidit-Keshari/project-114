@@ -12,7 +12,8 @@
 
 canvas {
     animation: example 4s infinite;
-    outline-style: dashed black;
+    outline
+    : dashed black;
 }
 
 @keyframes example {
